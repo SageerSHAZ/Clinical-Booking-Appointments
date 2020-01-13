@@ -1,0 +1,11 @@
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\obj\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.csprojAssemblyReference.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\obj\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\obj\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.AssemblyInfoInputs.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\obj\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.AssemblyInfo.cs
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\bin\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.deps.json
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\bin\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.runtimeconfig.json
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\bin\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.runtimeconfig.dev.json
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\bin\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\bin\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.pdb
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\obj\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\ClinicalBookingAppointments.WebAPI\obj\Debug\netcoreapp2.0\ClinicalBookingAppointments.WebAPI.pdb
